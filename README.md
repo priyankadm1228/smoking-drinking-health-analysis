@@ -32,3 +32,6 @@ The notebook includes:
    git clone https://github.com/priyankadm1228/smoking-drinking-health-analysis.git
   ```bash
    cd smoking-drinking-health-analysis
+(Optional)
+```bash
+pip install -r requirements.txt
