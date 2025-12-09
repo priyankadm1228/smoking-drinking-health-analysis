@@ -30,4 +30,5 @@ The notebook includes:
 1. Clone the repository:
    ```bash
    git clone https://github.com/priyankadm1228/smoking-drinking-health-analysis.git
-  cd smoking-drinking-health-analysis
+  ```bash
+     cd smoking-drinking-health-analysis
