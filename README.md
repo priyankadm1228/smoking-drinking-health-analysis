@@ -31,4 +31,4 @@ The notebook includes:
    ```bash
    git clone https://github.com/priyankadm1228/smoking-drinking-health-analysis.git
   ```bash
-     cd smoking-drinking-health-analysis
+   cd smoking-drinking-health-analysis
