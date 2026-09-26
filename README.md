@@ -2,7 +2,7 @@
 
 **Author:** Priyanka Logasubramanian  
 **Published in:** ReBICTE Journal, Vol. 10, Article No. 05 (2024)  
-**DOI:** https://doi.org/10.56801/rebicte.v10i.190  
+**DOI:** https://rebicte.org/index.php/rebicte/article/view/190  
 
 ## 📌 Overview
 
